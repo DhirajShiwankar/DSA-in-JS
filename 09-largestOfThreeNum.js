@@ -15,4 +15,4 @@ function largest(num1, num2, num3) {
     return `${max} is the greatest.`;
 }
 
-console.log(largest(10, 20, 30)); // Output: 20 is the greatest.
+console.log(largest(10, 20, 30)); // Output: 30 is the greatest.
