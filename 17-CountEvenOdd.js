@@ -13,4 +13,4 @@ function countEvenOdd (num) {
     console.log(`${oddcount} number of odd numbers.`);
 }
 
-countEvenOdd(10)
+countEvenOdd(10);
