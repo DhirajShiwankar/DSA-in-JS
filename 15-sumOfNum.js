@@ -7,5 +7,4 @@ function numSum (N) {
     }
     return `${sum} sum of first Natural number.`
 }
-
 console.log(numSum(10))
