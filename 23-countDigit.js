@@ -1,5 +1,6 @@
 // 23.	Count the digits of a number.
 
+
 function countDigit (num) {
     let count = 0;
     let original = num;
