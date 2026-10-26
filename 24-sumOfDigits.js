@@ -3,6 +3,7 @@
 function SumOfDigit(num) {
     let original = num;
     let sum = 0;
+    
     num = Math.abs(num) // returns the absolute value of a number, removing its negative sign if present
 
     while (num > 0) {
