@@ -1,4 +1,4 @@
-// 24.	Find the sum of digits.
+// Find the sum of digits.
 
 function SumOfDigit(num) {
     let original = num;
